@@ -106,6 +106,7 @@
     "postcss-mixins": "^5.4.1",
     "postcss-reporter": "^3.0.0",
     "postcss-url": "^6.0.3",
+    "prop-types": "^15.6.2",
     "react": "16.3.2",
     "react-dom": "16.3.2",
     "react-highlight-words": "^0.6.0",
